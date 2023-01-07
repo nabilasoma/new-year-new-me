@@ -104,7 +104,7 @@
 /* plan part start  */
 .plan_part {
 	padding-top: 150px;
-	padding-bottom: 100px;
+	/* padding-bottom: 100px; */
 }
 .plan_container {
 	width: 1140px;
@@ -178,11 +178,131 @@
 	border-radius: 5px;
 }
 /* gradient part start  */
+/* expertise part start  */
+.experties_part {
+	padding: 100px;
+	background: #E0F2F1;
+}
+.expertise_item_part {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 30px;
+}
+.expertise_header {
+	text-align: center;
+	color: #546E7A;
+	font-size: 30px;
+	font-weight: 700;
+}
+.expertise_text {
+	text-align: center;
+	color: #546E7A;
+	font-size: 16px;
+	font-weight: 400;
+	padding-bottom: 40px;
+	padding-top: 20px;
+}
+.expertise_item {
+	text-align: center;
+}
+.item_text {
+	width: 250px;
+	text-align: center;
+	margin: 0 auto;
+	line-height: 25px;
+	font-size: 16px;
+	font-weight: 400;
+	font-family: 'Open Sans', sans-serif;
+}
+.expertise_icon {
+	padding-bottom: 25px;
+}
+/* expertise part start  */
+/* footer part start  */
+.footer_container {
+	width: 1140px;
+	margin: 0 auto;
+}
+.footer_part {
+	padding: 108px 0;
+	background: #212121;
+}
+.footer_top_part {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+.footer_future {
+	color: #fff;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 700;
+	font-size: 30px;
+}
+.footer_description {
+	width: 398px;
+	color: #fff;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 25px;
+	padding-bottom: 20px;
+	padding-top: 25px;
+}
+.footer_emil {
+	color: #fff;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+	padding-bottom: 15px;
+}
+.footer_phone {
+	color: #fff;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+	padding-bottom: 25px;
+}
+.footer_icon {
+	padding-right: 10px;
+}
+.footer_subscribe {
+	color: #fff;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 700;
+	font-size: 20px;
+	padding-bottom: 30px;
+	margin-top: -85px;
+}
+.emil_part{
+	padding: 15px 50px;
+	border-radius: 5px;
+	background: transparent;
+	color: #ffffff;
+	font-size: 16px;
+	font-weight: 700;
+	font-family: 'Open Sans', sans-serif;
+}
+.subscribe {
+	display: block;
+	padding: 15px 30px;
+	background: #0288D1;
+	color: #fff;
+	border: none;
+	font-size: 16px;
+	border-radius: 5px;
+	font-weight: 700;
+}
+.footer_button {
+	padding-top: 30px;
+}
+/* footer part start  */
 
 
 
-/* header part start  */
-/* header part start  */
+
+
+
 /* header part start  */
 /* header part start  */
 /* header part start  */
